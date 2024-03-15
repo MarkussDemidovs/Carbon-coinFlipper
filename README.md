@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*6K__rjrg7Y28cEJT0X6z8g.png" width=150>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*6K__rjrg7Y28cEJT0X6z8g.png" width=350>
 
 # A Carbon coin flipper
 A Carbon coin flipper is a Coin flipper built on Google's experimental programming language called "Carbon".
