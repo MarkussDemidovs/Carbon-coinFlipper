@@ -8,3 +8,6 @@ The language intends to fix several perceived shortcomings of C++ but otherwise 
 
 Carbon's documents, design, implementation, and related tools are hosted on GitHub under the Apache-2.0 license with LLVM Exceptions.
 <a href="https://en.wikipedia.org/wiki/Carbon_(programming_language)">Source of this text</a>
+
+## Why did i create this?
+I am currently on a challange where i have to create a project in all of the programming languages i have heard of. This is my first challange entry. 
