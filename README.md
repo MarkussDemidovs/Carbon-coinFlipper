@@ -1,3 +1,5 @@
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*6K__rjrg7Y28cEJT0X6z8g.png">
+
 # A Carbon coin flipper
 A Carbon coin flipper is a Coin flipper built on Google's experimental programming language called "Carbon".
 
@@ -13,4 +15,4 @@ Carbon's documents, design, implementation, and related tools are hosted on GitH
 I am currently on a challange where i have to create a project in all of the programming languages i have heard of. This is my first challange entry. 
 
 ## How to run?
-To run it, you'll have to install carbon either <a href="https://betterprogramming.pub/carbon-programming-language-tutorial-6d67b4cc16ae">locally</a>, or run it through the <a href="https://carbon.compiler-explorer.com/">Compiler Explorer/</a>
+To run it, you'll have to install carbon either <a href="https://betterprogramming.pub/carbon-programming-language-tutorial-6d67b4cc16ae">locally</a>, or run it through the <a href="https://carbon.compiler-explorer.com/">Compiler Explorer</a> by copying and pasting the source code's text.
