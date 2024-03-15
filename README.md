@@ -11,3 +11,6 @@ Carbon's documents, design, implementation, and related tools are hosted on GitH
 
 ## Why did i create this?
 I am currently on a challange where i have to create a project in all of the programming languages i have heard of. This is my first challange entry. 
+
+## How to run?
+To run it, you'll have to install carbon either <a href="https://betterprogramming.pub/carbon-programming-language-tutorial-6d67b4cc16ae">locally</a>, or run it through the <a href="https://carbon.compiler-explorer.com/">Compiler Explorer/</a>
