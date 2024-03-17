@@ -1,7 +1,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*6K__rjrg7Y28cEJT0X6z8g.png" width=350>
 
 # A Carbon coin flipper
-A Carbon coin flipper is a Coin flipper built on Google's experimental programming language called "Carbon".
+This is a Coin flipper built on Google's experimental programming language called "Carbon".
 
 ## What is carbon?
 Carbon is an experimental programming language designed for interoperability with C++. The project is open-source and was started at Google. Google engineer Chandler Carruth first introduced Carbon at the CppNorth conference in Toronto in July 2022. He stated that Carbon was created to be a C++ successor. The language is expected to have an experimental MVP version 0.1 in 2025 and a production-ready version 1.0 after 2027.
