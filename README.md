@@ -12,7 +12,7 @@ Carbon's documents, design, implementation, and related tools are hosted on GitH
 <a href="https://en.wikipedia.org/wiki/Carbon_(programming_language)">Source of this text</a>
 
 ## Why did i create this?
-I am currently on a challange where i have to create a project in all of the programming languages i have heard of. This is my first challange entry. 
+I am currently on a challange where i have to create a project in all of the programming languages i have heard of. This is my first challange entry, with many more to come. 
 
 ## How to run the source code?
 To run it, you'll have to install carbon either <a href="https://betterprogramming.pub/carbon-programming-language-tutorial-6d67b4cc16ae">locally</a>, or run it through the <a href="https://carbon.compiler-explorer.com/">Compiler Explorer</a> by copying and pasting the source code's text.
